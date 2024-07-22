@@ -1,1 +1,1 @@
-
+I refined my curriculum consisting of all the information to sign up and create your very own chatbot though IBM Watson Assistant. I refined my Figma mock-up of my very own chatbot. Thorugh out this process creating the curriculum posed a challenge as far as creating the necessary components for easy understanding to the average non-user. IBM watson wide range of features posed some level of concern to explaining to the average user but through refining my cirriculum I tackeld the challenge head on.
