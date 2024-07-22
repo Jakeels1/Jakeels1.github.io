@@ -1,1 +1,1 @@
-
+I created a mock up of my chatbot through figma.Titled "Doug the assistant" I modeled the figma mockup from chat gpt and IBM watson s reference. I created a step by step curriculum for creating a chatbot through IBM WatsonX Assistant. This served as a tool to assist teachers in creating and utilizing IBM watsonX Assistant and its numerous features list.
