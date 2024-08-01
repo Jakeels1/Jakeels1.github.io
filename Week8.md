@@ -1,0 +1,1 @@
+Expanding our corpus we included over 35 intents with 12 utterances each. orginally we tested for accuracy and precisoon of our chatbots but found that to be of no success and focused on Amazon lex and Botpress' personality agent. 
