@@ -1,1 +1,1 @@
-Finalizing our project 
+Thorugh Finalizing our project we prepared to begin writing our final paper and perparing for our final presentation. Thoruh constant practice and mcok presentations we felt as a group we were more than ready to present come tuesday July 30th. 
