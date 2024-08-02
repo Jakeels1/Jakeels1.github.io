@@ -1,11 +1,7 @@
 ## About My Project
 
-mBot Neo
+ Our project explores the current state of chatbots, their scientific literature regarding trustworthiness, and how we can help teachers leverage the technology in the classroom. Popular low code chatbots we explored were IBM Watson, Botpress, Dialogflow, and Amazon Lex by using the in house tools for training as well as by using them in custom software via API. The results unveiled the effectiveness and drawbacks of the current chatbots, as well as the benefit of creating custom software wrappers to better facilitate their use by teachers and students. The trajectory of this technology indicates their likely use in education and other fields.  
 
-Problem: There is a lack of reasearch focusing on exploring ways to explore trustworth A.I through chatbot.
-
-Approach: During this project, I will assist a team in designing a system that accomplishes the following:
-
-  - building and creating a reliable trustworthy chat bot
-    
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the CEAMLS program.
+ Upon reviewing recent literature on this topic, it was noted that there is no definitive definition of Trustworthy AI. Since this is a burgeoning field, the literature available is quite limited and sometimes contains repetitive information. It was also found that there is a lack of supportive material for secondary school teachers when it comes to creating and utilizing customizable chat bots. 
+ 
+The rapid growth of AI tools across various domains has accentuated the need for research into their trustworthiness. Clearly, defining Trustworthy AI is essential, particularly to promote confidence among users and creators of AI systems. In the education sector, building this trust is very important. By trusting in AI systems teachers become more inclined to rely on the accuracy of AI tools and are more likely to integrate these technologies into their classrooms. Therefore, by creating a curriculum that explains how to design and deploy low-code chatbots, teachers can create customized chatbots with clear parameters which ensure that the material given to students is accurate and relevant.
